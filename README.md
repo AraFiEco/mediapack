@@ -1,8 +1,10 @@
-# Social links
-<a href="https://arafi.app" target="_blank">Frontend (soon)</a> 
-<a href="https://x.com/AraFiECO" target="_blank">X / Twitter</a> 
-<a href="https://https://discord.gg/YTaVgNkCB8" target="_blank">Discord</a> 
-<a href="https://ara-fi.medium.com" target="_blank">Medium</a> 
+# Protocol links
+
+<a href="https://arafi.app" target="_blank">Frontend (soon)</a> <br />
+<a href="https://docs.arafi.app" target="_blank">Documentation (soon)</a> <br />
+<a href="https://x.com/AraFiECO" target="_blank">X / Twitter</a> <br />
+<a href="https://https://discord.gg/YTaVgNkCB8" target="_blank">Discord</a> <br /> 
+<a href="https://ara-fi.medium.com" target="_blank">Medium</a> <br />
 
 # AraFi Media Pack
 
