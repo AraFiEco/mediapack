@@ -1,3 +1,9 @@
+# Social links
+<a href="https://arafi.app" target="_blank">Frontend (soon)</a> 
+<a href="https://x.com/AraFiECO" target="_blank">X / Twitter</a> 
+<a href="https://https://discord.gg/YTaVgNkCB8" target="_blank">Discord</a> 
+<a href="https://ara-fi.medium.com" target="_blank">Medium</a> 
+
 # AraFi Media Pack
 
 PNG - AraFi ERC-20 cover | 150px x 150px <br />
