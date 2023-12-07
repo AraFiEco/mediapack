@@ -1,6 +1,6 @@
 # Protocol links
 
-<a href="https://arafi.app" target="_blank">Frontend (soon)</a> <br />
+<a href="https://arafi.app" target="_blank">Frontend</a> <br />
 <a href="https://docs.arafi.app" target="_blank">Documentation/White Paper</a> <br />
 <a href="https://x.com/AraFiECO" target="_blank">X / Twitter</a> <br />
 <a href="https://https://discord.gg/YTaVgNkCB8" target="_blank">Discord</a> <br /> 
