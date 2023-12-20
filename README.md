@@ -20,8 +20,8 @@ PNG - colored logo | grey type | 3776px x 1587px | w/transparency <br />
 PNG - colored logo | black type | 3776px x 1587px | w/transparency <br />
 <img src="https://github.com/AraFiEco/mediapack/blob/main/AraFi_C_B.png" width="50%">
 
-PNG - Vertical | colored logo, white type | 3776px x 1587px | w/transparency <br />
-<img src="https://github.com/AraFiEco/mediapack/blob/main/AraFi_vertical1.png" width="50%">
+PNG - Vertical | colored logo, white type | 1004px x 1500px | w/transparency <br />
+<img src="https://github.com/AraFiEco/mediapack/blob/main/AraFi_vertical_1.png" width="50%">
 
 PNG - full white logotype | 3776px x 1587px | w/transparency <br />
 <img src="https://github.com/AraFiEco/mediapack/blob/main/AraFi_W_W.png" width="50%">
