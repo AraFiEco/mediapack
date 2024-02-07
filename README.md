@@ -8,7 +8,7 @@
 
 # AraFi Media Pack
 
-PNG - AraFi ERC-20 cover | 150px x 150px <br />
+PNG/SVG - AraFi ERC-20 token cover | 150px x 150px <br />
 <img src="https://github.com/AraFiEco/mediapack/blob/main/AraFi_tokenlogo_c150x150px.png">
 
 PNG - colored logo | white type | 3776px x 1587px | w/transparency   <br />
